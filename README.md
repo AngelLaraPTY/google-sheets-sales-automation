@@ -1,6 +1,17 @@
 # Automated Sales Reporting — Google Sheets + Apps Script
-
+![alt text](screenshots/dashboard.png)
 A self-contained portfolio demo using fictional sales data. No external API, paid service, or real customer information is required.
+
+## Features
+
+- Automated sales data cleaning and validation
+- Duplicate order detection
+- Revenue and order performance metrics
+- Monthly revenue reporting
+- Sales breakdown by category
+- Interactive Google Sheets dashboard
+- Manual and scheduled report refresh
+- Built-in calculation consistency checks
 
 ## Setup (10–15 minutes)
 1. Create a **new blank Google Sheet** named `Automated Sales Reporting — Demo`.
